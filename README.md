@@ -7,9 +7,6 @@ Secure message communication using the Advanced Encryption Standard (AES) — a 
 **Rajgopal Pandilwar**
 
 ## Based On Original Work By
-
-This project is based on original work by **Vatshayan** — [Original Repository](https://github.com/Vatshayan/AES-)
-
 ## What is AES?
 
 The Advanced Encryption Standard (AES) is a symmetric-key block cipher adopted by the U.S. government and now used worldwide. It supports key sizes of 128, 192, and 256 bits.
